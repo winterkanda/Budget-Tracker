@@ -3,14 +3,11 @@
   "mode": "development",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "lite-server": "lite-server",
-    "start:dev": "webpack-dev-server",
-    "webpack": "webpack --watch",
-    "build": "webpack",
     "watch": "nodemon index.js --watch"
   },
   "repository": {
