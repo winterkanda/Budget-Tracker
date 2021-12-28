@@ -22,6 +22,11 @@ SO THAT my account balance is accurate when I am traveling
 
 &nbsp;  
 
+## Preview
+![screenshot](budgettracker.png)
+
+&nbsp; 
+
 ## Deployed Live
 https://track-your-budget-wk.herokuapp.com/
 
